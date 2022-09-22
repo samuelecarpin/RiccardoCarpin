@@ -2,8 +2,7 @@ Allarmi. Scorrerie di soldati. Entra NORFOLK con soldati, combattendo.
 
 Gli viene incontro di corsa CATESBY
 
-CATESBY 
-	
+CATESBY 	
 
 Soccorso! Monsignore di Norfolk, soccorso, soccorso!
 
