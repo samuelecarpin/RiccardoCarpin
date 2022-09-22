@@ -1,6 +1,9 @@
-Clamori marziali. Scorrerie. Entrano (Norfolk e soldati, poi dall’altra porta) Catesby.
+Allarmi. Scorrerie di soldati. Entra NORFOLK con soldati, combattendo.
 
-CATESBY
+Gli viene incontro di corsa CATESBY
+
+CATESBY 
+	
 
 Soccorso! Monsignore di Norfolk, soccorso, soccorso!
 
@@ -8,34 +11,48 @@ Il re fa prodigi sovrumani,
 
 sfidando ad oltranza ogni avversario.
 
-Gli hanno ucciso il cavallo, ed egli si batte a piedi, [giusta]
+Gli hanno ucciso il cavallo, ed egli si batte a piedi,
 
-cercando Richmond nella gola della morte.
+e nell’ansia di battersi con Richmond
 
-Soccorso, nobile signore, o la giornata è persa.
+si caccia nelle fauci della morte.
 
-(Escono Norfolk e soldati).
+Soccorretelo, nobile signore,
 
-Allarmi. Entra re Riccardo.
+o la giornata per noi è perduta.
 
-RE RICCARDO
+(Escono Norfolk e soldati)
 
-Un cavallo un cavallo! il mio regno per un cavallo!
+Entra RE RICCARDO
 
-CATESBY
+RICCARDO 
+	
 
-Ritiratevi, monsignore; v’aiuterò io a trovar un cavallo!
+Un cavallo! Un cavallo!
 
-RE RICCARDO
+Il mio regno per un cavallo!
+
+CATESBY 
+	
+
+Sire,
+
+ritiratevi! Cerco io un cavallo
+
+per vostra altezza.
+
+RICCARDO 
+	
 
 Vigliacco! Ho puntato la mia vita su una giocata,
 
-e accetterò il rischio del dado.
+E sopporterò il rischio del dado:
 
-Credo che ci siano sei Richmond sul campo:
+Credo che ci siano sei Richmond in campo:
 
-cinque ne ho uccisi oggi, invece di lui.
+cinque ne ho uccisi cinque oggi, al posto di lui.
 
-Un cavallo! Un cavallo! Il mio regno per un cavallo!
+Un cavallo! un cavallo! il mio regno per un cavallo!
 
-[Escono].
+
+Esce
