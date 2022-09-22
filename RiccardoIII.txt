@@ -1,37 +1,61 @@
-Allarme ed escursioni; entrano Norfolk e l’esercito: Catesby gli va incontro.
+Allarmi. Scorrerie di soldati. Entra NORFOLK con soldati, combattendo.
+
+Gli viene incontro di corsa CATESBY
 
 CATESBY 
+	
 
-Alla riscossa, milord di Norfolk, alla riscossa! [giusta]
+Correte, aiuto, signor di Norfolk!
 
+Il re compie prodigi sovrumani
 
-Il re fa prodigi di valore superiori alle forze di un uomo. 
+di valore, incurante d’ogni rischio.
 
-Intrepido disprezza tutti i pericoli! 
-Il suo cavallo è ucciso, ed ei combatte a piedi 
+Gli hanno ucciso il cavallo,
 
-cercando Richemond nel seno della morte. 
+e lui, a piedi, seguita a combattere;
 
-Soccorso, prode duca, o la battaglia è perduta! 
+e nell’ansia di battersi con Richmond
 
-(allarme; entra il re Riccardo)
+si caccia nelle fauci della morte.
+
+Soccorretelo, nobile signore,
+
+o la giornata per noi è perduta. [giusta]
+
+(Escono Norfolk e soldati)
+
+Entra RE RICCARDO
 
 RICCARDO 
+	
 
-Un cavallo, un cavallo! il mio regno per un cavallo!
+Un cavallo! Un cavallo!
+
+Il mio regno per un cavallo!
 
 CATESBY 
+	
 
-Ritiratevi, milord, e vi aiuterò a trovarne uno.
+Sire,
+
+ritiratevi! Cerco io un cavallo
+
+per vostra altezza.
 
 RICCARDO 
+	
 
-Vile; ho giuocata la mia vita sopra un colpo di dadi, e affronterò tutte le vicissitudini della sorte. 
+Ho messo la mia vita come posta
 
-Credo vi fossero sei Richemond nel campo; 
+per un colpo di dadi, e starò al gioco.
 
-cinque ne ho già uccisi, e uno ancora ne rimane. 
+Credo ci siano sei Richmond sul campo;
 
-Un cavallo, un cavallo! il mio regno per un cavallo!
+cinque ne ho fatti fuori, quello no!
 
-(escono)
+Un cavallo! Un cavallo!
+
+Il mio regno per un cavallo!
+
+(Escono tutti)
